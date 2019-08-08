@@ -11,3 +11,9 @@ https://likegeeks.com/linux-web-server/
 
 nagios memory load,cpu set up in both server and client machines
 https://www.itzgeek.com/how-tos/linux/centos-how-tos/monitor-remote-linux-system-with-nagios-3.html#Ubuntu_1804_Ubuntu_1604_Debian_9 
+
+
+
+incometax
+
+https://portal.incometaxindiaefiling.gov.in/e-Filing/UserLogin/LoginHome.html?lang=eng 
